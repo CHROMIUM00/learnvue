@@ -13,7 +13,7 @@ import More from "@/components/More.vue";
             <ul class="goods-list">
                 <li v-for="item in 4" :key="item">
                     <RouterLink to="/">
-                        <img src="#" alt=""/>
+                        <img src="https://yanxuan-item.nosdn.127.net/5a115da8f2f6489d8c71925de69fe7b8.png" alt=""/>
                         <p class="name ellipsis">itemdescription</p>
                         <p class="price">￥1234.56</p>
                     </RouterLink>

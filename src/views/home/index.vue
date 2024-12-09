@@ -19,6 +19,8 @@ import HomeNew from "@/views/home/components/HomeNew.vue";
 
 <style scoped>
 .container {
+    --gap: calc((100vh - 1300px) / 2);
+
     margin: auto;
     max-width: 1300px;
 }

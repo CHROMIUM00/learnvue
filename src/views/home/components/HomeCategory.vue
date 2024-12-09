@@ -19,7 +19,8 @@ const store = useHomeStore();
                     <ul>
                         <li v-for="j in 9" :key="i">
                             <RouterLink to="/">
-                                <img src="#" alt="">
+                                <img src="https://yanxuan-item.nosdn.127.net/5a115da8f2f6489d8c71925de69fe7b8.png"
+                                     alt="">
                                 <div class="info">
                                     <p class="name ellipsis-2">{{ i }}-th itemname</p>
                                     <p class="desc ellipsis">itemdescription</p>
