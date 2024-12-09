@@ -50,6 +50,9 @@ import LoginForm from "@/views/login/components/LoginForm.vue";
         display: flex;
         align-items: flex-end;
         justify-content: space-between;
+
+        width: 1300px;
+        margin: auto;
     }
 
     .logo {
